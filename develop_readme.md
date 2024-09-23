@@ -8,3 +8,8 @@
 node -r dotenv/config ./lib/db/mcv/misc/generateSecret.js
 ```
 
+## Seed standalone
+
+```
+node -r dotenv/config ./lib/db/mcv/misc/generateSecret.js
+```
