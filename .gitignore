@@ -43,6 +43,11 @@ next-env.d.ts
 /sites/www/*
 /sites/vanilla/*
 
+!/sites/poc/index.html
+!/sites/preview/index.html
+!/sites/www/index.html
+!/sites/vanilla/index.html
+
 
 
 /public/users/*
