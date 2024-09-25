@@ -15,7 +15,7 @@ Følg følgende trin.
 npm install
 ```
 
-### Opret en .env og .env.local fil i roden af projektet.
+### Opret en .env.local fil i roden af projektet.
 
 Indsæt dette indhold:
 ```
@@ -47,7 +47,7 @@ npm run "Opret Database"
 
 ### 4. Tjek at databasen er oprettet.
 
-Åbn Mongo Compass og se din nye database "mcv-legekrogen".
+Åbn Mongo Compass og se din nye database "mcd-legekrogen".
 
 ### 5. Start serveren.
 
@@ -104,5 +104,6 @@ Ala:
 
 Nu er alt oprettet og du er klar til at udvikle Legekrogen. Hvis dette ikke er tilfældet, så tag fat i din underviser. Det er vigtigt at dette er på plads inden du forlader skolens matrikel.
 
-:bulb: Husk! I kan altid droppe/slette jeres database og genskabe den som oprindelig med "Opret Database" scriptet. I kan også omdøbe databasen ved at ændre navnent i begge .env filer. Tøv ikke med at tage fat i en underviser hvis der er problemer, vi må vejlede og hjælpe i det omfang vi ikke løser jeres opgave.
+:bulb: Husk!                
+I kan altid droppe/slette jeres database og genskabe den som oprindelig med "Opret Database" scriptet. I kan også omdøbe databasen ved at ændre navnent i begge .env filer. Tøv ikke med at tage fat i en underviser hvis der er problemer, vi må vejlede og hjælpe i det omfang vi ikke løser jeres opgave.
 
