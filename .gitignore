@@ -43,10 +43,10 @@ next-env.d.ts
 /sites/www/*
 /sites/vanilla/*
 
-!/sites/poc/index.html
-!/sites/preview/index.html
-!/sites/www/index.html
-!/sites/vanilla/index.html
+!/sites/poc/.gitkeep
+!/sites/preview/.gitkeep
+!/sites/www/.gitkeep
+!/sites/vanilla/.gitkeep
 
 
 
