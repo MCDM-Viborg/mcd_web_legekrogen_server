@@ -48,8 +48,6 @@ next-env.d.ts
 !/sites/www/.gitkeep
 !/sites/vanilla/.gitkeep
 
-
-
 /public/users/*
 !/public/users/no-user.jpg
 !/public/products/no-product.jpg
