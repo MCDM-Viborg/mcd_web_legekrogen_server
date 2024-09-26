@@ -52,4 +52,6 @@ next-env.d.ts
 
 /public/users/*
 !/public/users/no-user.jpg
+!/public/products/no-product.jpg
+!/public/reviews/no-review.jpg
 
